@@ -1,2 +1,2 @@
 # coursework
-CIT Higher Diploma Project work selection
+Selection of CIT Higher Diploma Project work selection
